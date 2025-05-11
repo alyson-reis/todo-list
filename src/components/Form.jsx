@@ -30,7 +30,7 @@ export default function Form({ todoHeadler }) {
             value={text}
             onChange={(e) => setText(e.target.value)}
           />
-          <Button variant="text" type="submit">Add</Button>
+          <Button style={{width: '10em'}} variant="text" type="submit">Add</Button>
         </div>
       </form>
     </Paper>
