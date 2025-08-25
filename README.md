@@ -1,4 +1,4 @@
-# ✅ To Do List (React)
+# ✅ To Do List
 
 Este projeto é uma **aplicação de lista de tarefas (To Do List)** desenvolvida em **React**, com **HTML, CSS e JavaScript**.  
 O objetivo é praticar conceitos de **componentização, gerenciamento de estado e manipulação de eventos** no React.  
